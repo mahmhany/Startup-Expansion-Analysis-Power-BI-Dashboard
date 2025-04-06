@@ -3,13 +3,22 @@ This Power BI project provides an in-depth analysis of startup expansion strateg
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Market Expansion Analysis – Evaluate regional and global growth opportunities based on key performance indicators.</b> 
-- <b>Financial Performance Insights – Track revenue, expenses, and profitability trends to assess startup sustainability.</b>
-- <b>Customer & Demographic Trends – Understand customer segmentation, preferences, and behavior patterns to refine business strategies.</b>
-- <b>Investor & Funding Analysis – Assess investment trends, funding rounds, and financial health for strategic decision-making.</b>
-- <b>Interactive & Dynamic Visuals – Gain actionable insights with advanced Power BI visualizations and filters.</b>
+- **Market Expansion Analysis: Growth Opportunities Evaluation**  
+This feature evaluates regional and global growth opportunities by analyzing key performance indicators, helping startups identify high-potential markets for expansion.
+
+- **Financial Performance Insights: Revenue and Profitability Tracking**  
+Track revenue, expenses, and profitability trends to assess the startup's financial sustainability, providing a clear view of fiscal health and performance over time.
+
+- **Customer & Demographic Trends: Segmentation and Behavior Insights**  
+Understand customer segmentation, preferences, and behavior patterns through detailed demographic analysis, enabling refined business strategies to target key audiences effectively.
+
+- **Investor & Funding Analysis: Investment Trends and Financial Health**  
+Assess investment trends, funding rounds, and overall financial health to support strategic decision-making, offering insights into the startup's attractiveness to investors.
+
+- **Interactive & Dynamic Visuals: Actionable Insights with Power BI**  
+Gain actionable insights through advanced Power BI visualizations and filters, allowing users to interact with data dynamically and explore trends in a user-friendly interface.
 
 
 <h2>Tech Stack </h2>
